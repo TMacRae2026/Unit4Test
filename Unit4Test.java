@@ -12,6 +12,16 @@ import java.util.Random;
  * @author TMacRae2026
  */
 
+/*
+    the plan:
+    make a card object.
+    make a arraylist of cards
+    make a new card and check if it is already in the list.
+        if it is make a new card
+        if it isn't add it to the list
+    print all of the cards
+*/
+
 public class Unit4Test {
 
     public static void main(String[] args) {
